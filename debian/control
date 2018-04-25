@@ -1,0 +1,14 @@
+Source: calamares-copykernel
+Section: devel
+Priority: important
+Maintainer: Equipo LliureX <lliurex@gva.es> 
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.2
+Homepage: http://lliurex.net
+#Vcs-Git: https://gitlab.com/gaticos/calamares-copykernel-module.git
+
+Package: calamares-copykernel
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, calamares
+Description: Calamares module to copy kernels from casper folder
+  This module is to copy vmlinuz files on casper folder to boot folder.
