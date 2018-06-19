@@ -1,3 +1,9 @@
+calamares-copykernel (0.2) bionic; urgency=medium
+
+  * Update path to install module
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 19 Jun 2018 08:50:39 +0200
+
 calamares-copykernel (0.1) bionic; urgency=high
 
   * First bionic version 
