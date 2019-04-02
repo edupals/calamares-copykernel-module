@@ -1,3 +1,9 @@
+calamares-copykernel (0.2.1) bionic; urgency=medium
+
+  * Change priority on control file
+
+ -- Raul Rodrigo Segura <raurodse@gmail.com>  Tue, 02 Apr 2019 13:08:36 +0200
+
 calamares-copykernel (0.2) bionic; urgency=medium
 
   * Update path to install module
